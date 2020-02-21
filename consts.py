@@ -6,11 +6,11 @@ EDUCATION = {
 } ### Parameters for client data URL
 
 
-FB_CLIENT_ID = '2719527094779314'
-FB_CLIENT_SECRET = '973897fbf7866067a071c655d50796cc'
+FB_CLIENT_ID = ''
+FB_CLIENT_SECRET = ''
 
-TW_API_KEY = 'YDbPMxcH30jGYMNBYuVNcx1na'
-TW_API_SECRET = 'EqY6erSKULvymp6VngDzl2eBYuf1cc2tSwBx6KWnV0YLHmYmti'
+TW_API_KEY = ''
+TW_API_SECRET = ''
 
 graph_url = 'https://graph.facebook.com/'
 
